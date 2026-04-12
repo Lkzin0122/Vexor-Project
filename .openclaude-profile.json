@@ -1,0 +1,9 @@
+{
+  "profile": "openai",
+  "env": {
+    "OPENAI_BASE_URL": "https://openrouter.ai/api/v1",
+    "OPENAI_MODEL": "gpt-4o",
+    "OPENAI_API_KEY": "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"
+  },
+  "createdAt": "2026-04-12T05:02:41.147Z"
+}
