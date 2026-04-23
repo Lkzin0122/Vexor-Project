@@ -78,5 +78,3 @@ git clone https://github.com/seu-usuario/vexor.git
 cd vexor
 flutter pub get
 flutter run
-flutter pub get
-flutter run
