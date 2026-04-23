@@ -39,23 +39,6 @@ O Vexor segue um estilo:
 
 ---
 
-## 🗂️ Estrutura do Projeto
-
-lib/
- ├── pages/
- │    ├── home_page.dart
- │    ├── login_page.dart
- │    ├── profile_page.dart
- │
- ├── widgets/
- │    ├── bottom_nav.dart
- │
- ├── models/
- ├── services/
- └── main.dart
-
----
-
 ## 🧠 Conceito
 
 O Vexor não é apenas um app de treino.
